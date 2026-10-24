@@ -75,7 +75,7 @@ Predloženi kvantni tiket: [8, x, 22, y, 24, z, 35]
 Predloženi kvantni tiket: [2, x, 11, y, 26, z, 34]
 """
 
-
+ 
 
 """
 Protokol za Kvantni hod (Quantum Walk) u kontekstu loto podataka
